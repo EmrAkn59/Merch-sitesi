@@ -1,0 +1,17 @@
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\bin\Debug\net8.0\PhoenixMerch.Entities.deps.json
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\bin\Debug\net8.0\PhoenixMerch.Entities.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\bin\Debug\net8.0\PhoenixMerch.Entities.pdb
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\bin\Debug\net8.0\PhoenixMerch.Core.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\bin\Debug\net8.0\PhoenixMerch.Core.pdb
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.csproj.AssemblyReference.cache
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.AssemblyInfoInputs.cache
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.AssemblyInfo.cs
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.csproj.CopyComplete
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\refint\PhoenixMerch.Entities.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.pdb
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\ref\PhoenixMerch.Entities.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\bin\Debug\net8.0\PhoenixMerch.Entities.runtimeconfig.json
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Entities\obj\Debug\net8.0\PhoenixMerch.Entities.genruntimeconfig.cache

@@ -1,0 +1,196 @@
+﻿@using PhoenixMerch.Entities.Concrete;
+@model List<Product>
+@{
+    Product product = Model.FirstOrDefault(p => p.Id == 1);
+}
+
+<style>
+    body {
+        margin-top: -5px;
+        margin-left: -5px;
+    }
+
+    .Header_container {
+        height: 95px;
+        width: 100%;
+        background: #272639;
+        padding-top: 10px;
+    }
+
+    .Header {
+        height: 75px;
+        width: auto;
+        display: flex;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .Logo {
+        height: 75px;
+        width: 75px;
+    }
+
+    .Basket_Login {
+        height: 75px;
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 20px;
+    }
+
+    .Login {
+        height: 75px;
+        width: 75px;
+    }
+
+    .Basket {
+        height: 75px;
+        width: 75px;
+    }
+
+    i {
+        color: black;
+        margin-top: 5px;
+        font-size: 45px;
+    }
+
+        i:hover {
+            color: darkgray;
+        }
+
+    .product_container {
+        border-top: 2px solid black;
+        border-bottom: 4px solid black;
+        height: 850px;
+        width: 100%;
+        background: #1f1e2c;
+        display: flex;
+    }
+
+    .product_1 {
+        height: 775px;
+        width: 50%;
+        padding-top: 5%;
+        padding-left: 10%;
+    }
+
+    .product_menu {
+        height: 650px;
+        width: 500px;
+        border-radius: 50px;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .product_display {
+        height: 650px;
+        width: 500px;
+    }
+
+    .product_button {
+        margin-top: -100px;
+        height: 100px;
+        width: 500px;
+        padding-top: 25px;
+        padding-left: 175px;
+    }
+
+    .product_button_button {
+        height: 50px;
+        width: 150px;
+        background-color: transparent;
+        border-radius: 50px;
+    }
+
+    .Footer_footer {
+        margin-top: 150px;
+        margin-left: 50px;
+        height: 250px;
+        width: 250px;
+    }
+
+    ul {
+        list-style-type: none;
+    }
+
+    li {
+        margin-bottom: 10px;
+    }
+</style>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+<body>
+    <div class="container">
+        
+        <div id="-1">
+            <div class="Header_container">
+                <div class="Header">
+                    <div class="Logo"><a href="@Url.Action("Index", "Home")"><i class="fa-regular fa-user"></i></a></div>
+                    <div class="Basket_Login">
+                        <div class="Login">
+                            <a href="@Url.Action("Login", "Account")">
+                                <i class="fa-regular fa-user"></i>
+                            </a>
+                        </div>
+                        <div class="Basket">
+                            <a href="@Url.Action("Basket", "Basket")">
+                                <i class="fa-solid fa-basket-shopping"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="0">
+            <div class="product_container">
+                <div class="product_1">
+                        <div class="product_menu" style="background-image: url(@product.Image)">
+                        <div class="product_display" ></div>
+                        <div class="product_button">
+                            <form method="post" action="@Url.Action("Privacy", "Home")">
+                                <button type="submit" class="product_button_button">SATIN AL</button>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="product_1">
+                        <div class="product_menu" style="background-image: url(@product.Image)">
+                        <div class="product_display" ></div>
+                        <div class="product_button">
+                            <form method="post" action="@Url.Action("Privacy", "Home")">
+                            <button type="submit" class="product_button_button">SATIN AL</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="1">
+            <div class="Footer_footer">
+                <div class="Footer_list">
+                    <ul>
+                        <li><b>DESTEK</b></li>
+                        <li>Bize Ulaşın</li>
+                        <li>Kargo ve İade</li>
+                        <li>Beden Ölçüleri</li>
+                        <li>Gizlilik Sözleşmesi</li>
+                        <li>Kullanıcı Sözleşmesi</li>
+                        <li>Mesafeli Satış Sözleşmesi</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\bin\Debug\net8.0\PhoenixMerch.Core.deps.json
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\bin\Debug\net8.0\PhoenixMerch.Core.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\bin\Debug\net8.0\PhoenixMerch.Core.pdb
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\PhoenixMerch.Core.csproj.AssemblyReference.cache
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\PhoenixMerch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\PhoenixMerch.Core.AssemblyInfoInputs.cache
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\PhoenixMerch.Core.AssemblyInfo.cs
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\PhoenixMerch.Core.csproj.CoreCompileInputs.cache
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\PhoenixMerch.Core.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\refint\PhoenixMerch.Core.dll
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\PhoenixMerch.Core.pdb
+C:\Users\emira\source\repos\PhoenixMerch\PhoenixMerch.Core\obj\Debug\net8.0\ref\PhoenixMerch.Core.dll
